@@ -2,6 +2,8 @@
 
 Welcome to the Python Banking App! This simple web application allows users to manage their bank accounts, view balances, perform transactions, and more.
 
+![Forza Bank](../BankingApp-Frontpage.png)
+
 ## Introduction
 
 This project is built using the Flask web framework for the backend and HTML, CSS, and Bootstrap for the frontend. It provides basic banking functionalities, including user authentication, account management, and transaction handling.

@@ -2,7 +2,7 @@
 
 Welcome to the Python Banking App! This simple web application allows users to manage their bank accounts, view balances, perform transactions, and more.
 
-![Forza Bank](../BankingApp-Frontpage.png)
+![Forza Capital Bank](ForzaCapitalBank.png)
 
 ## Introduction
 

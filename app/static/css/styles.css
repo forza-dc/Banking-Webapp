@@ -1,0 +1,28 @@
+/* Add your custom styles here */
+
+/* Navbar styles */
+.navbar {
+    background-color: #001f3f; /* Dark Navy Blue background color */
+}
+
+.navbar-brand {
+    color: #ffffff !important; /* White text color */
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff; /* White color for the toggle icon */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff !important; /* White text color for navbar links */
+}
+
+/* Container styles */
+.container {
+    max-width: 800px; /* Set a maximum width for the container */
+}
+
+/* Additional styles for the content */
+.mt-4 {
+    margin-top: 1.5rem !important; /* Adjust top margin */
+}
